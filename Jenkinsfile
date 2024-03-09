@@ -18,7 +18,7 @@ pipeline {
                     // Move to the repository directory
                     
                         // Compile the C++ code using a shell script
-                        sh 'g++ -o PES1UG21CS033-1 hello.cpp'
+                        sh 'g++ -o PES1UG21CS033-1 hello.cpoop'
                     
                 }
             }
